@@ -1,0 +1,15 @@
+nav {
+  background-color: rgb(211, 155, 155);
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  a {
+    all: unset;
+  }
+  div {
+    display: flex;
+    gap: 5px;
+    cursor: pointer;
+  }
+}
